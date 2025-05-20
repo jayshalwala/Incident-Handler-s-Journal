@@ -6,3 +6,4 @@ This repository contains a detailed incident handler’s journal for a simulated
 ## Contents
 - `incident-journal.md` – Comprehensive incident handler’s journal entry
 - `playbook.md` – High-level ransomware response playbook template
+- `Incident handler's journal entry.pdf`- Gives a detail information on the Incident 
